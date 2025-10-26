@@ -1,14 +1,16 @@
-# 极简英语单词学习器 / Simple Vocabulary Trainer
+<img width   宽度="482" height="464" alt="image" src="https://github.com/user-attachments/assets/179d7b06-0750-4ff4-8b22-4695f811de31" /><img width="474" height   高度="414" alt="image" src="https://github.com/user-attachments/assets/f9b5cf59-4b52-4a03-ac40-73182585b458" /># 极简英语单词学习器 / Simple Vocabulary Trainer
 
 
 <img width="552" height="463" alt="image" src="https://github.com/user-attachments/assets/d3d36a70-7f60-4687-a653-217a2428b1fa" />
-![Uploading image.png…]()
+
+
+
 
 一个简洁、易用的桌面英语单词学习应用程序。
 
-A minimalist and user-friendly desktop application for learning English vocabulary.
+A minimalist and user-friendly desktop application for learning English vocabulary.一个极简和用户友好的桌面应用程序，用于学习英语词汇。
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License   许可证](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
 
 ## ✨ 特性 / Features
@@ -67,7 +69,7 @@ strategy	n. 策略，战略
 
 ## 🛠️ 技术栈 / Tech Stack
 
-- **Python 3.6+**
+- **Python 3.6+   Python 3.6**
 - **Tkinter** - GUI界面
 - **PyInstaller** - 打包成exe
 
@@ -75,7 +77,7 @@ strategy	n. 策略，战略
 
 如需自己打包成exe：
 
-```bash
+```bash   ”“bash
 # 安装 PyInstaller
 pip install pyinstaller
 
@@ -102,13 +104,13 @@ simple-vocab-trainer/
 
 欢迎提交 Issue 和 Pull Request！
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+Contributions are welcome! Please feel free to submit a Pull Request.欢迎投稿！请随时提交拉取请求。
 
 ## 📄 许可证 / License
 
-本项目采用 MIT 许可证 - 详见 [LICENSE](LICENSE) 文件
+本项目采用 MIT 许可证 - 详见 [LICENSE   许可证](LICENSE   许可证) 文件
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE   许可证](LICENSE   许可证) file for details.
 
 ## 🙏 致谢 / Acknowledgments
 
@@ -117,5 +119,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Enjoy Learning! 📚✨**
+**Enjoy Learning! 📚✨   享受学习!📚✨**
+
 
