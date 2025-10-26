@@ -1,5 +1,9 @@
 # 极简英语单词学习器 / Simple Vocabulary Trainer
 
+
+<img width="552" height="463" alt="image" src="https://github.com/user-attachments/assets/d3d36a70-7f60-4687-a653-217a2428b1fa" />
+![Uploading image.png…]()
+
 一个简洁、易用的桌面英语单词学习应用程序。
 
 A minimalist and user-friendly desktop application for learning English vocabulary.
@@ -114,3 +118,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Enjoy Learning! 📚✨**
+
