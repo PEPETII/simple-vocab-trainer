@@ -1,14 +1,12 @@
  极简英语单词学习器 / Simple Vocabulary Trainer
 
-<img width   宽度="552" height="463" alt="image" src="https://github.com/user-attachments/assets/d3d36a70-7f60-4687-a653-217a2428b1fa" />
-
 
 一个简洁、易用的桌面英语单词学习应用程序。
 
 A minimalist and user-friendly desktop application for learning English vocabulary.一个极简和用户友好的桌面应用程序，用于学习英语词汇。
 
 ![License   许可证](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.6+-blue.svg)Python (https://img.shields.io/badge/python 3.6 -blue.svg) !
+![Python](https://img.shields.io/badge/python-3.6+-blue.svghttps://img.shields.io/badge/python-3.6 -blue.svg)Python (https://img.shields.io/badge/python 3.6 -blue.svg) !
 
 ## ✨ 特性 / Features
 
@@ -117,6 +115,7 @@ This project is licensed under the MIT License - see the [LICENSE   许可证](L
 ---
 
 **Enjoy Learning! 📚✨   享受学习!📚✨**
+
 
 
 
