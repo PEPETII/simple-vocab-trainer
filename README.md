@@ -5,8 +5,6 @@
 
 A minimalist and user-friendly desktop application for learning English vocabulary.一个极简和用户友好的桌面应用程序，用于学习英语词汇。
 
-![License   许可证](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.6+-blue.svghttps://img.shields.io/badge/python-3.6 -blue.svg)Python (https://img.shields.io/badge/python 3.6 -blue.svg) !
 
 ## ✨ 特性 / Features
 
@@ -26,7 +24,7 @@ A minimalist and user-friendly desktop application for learning English vocabula
 
 ### 方式二：从源码运行
 
-```bash   ”“bash
+```bash   ”“bash   ”“bash”“bash
 # 克隆仓库
 git clone https://github.com/yourusername/simple-vocab-trainer.gitGit克隆https://github.com/yourusername/simple-vocab-trainer.git
 cd simple-vocab-trainer
@@ -40,8 +38,8 @@ python main.py
 ### 单词文件格式
 
 支持以下分隔符之一：
-- 制表符（Tab）：`word	meaning`
-- 空格：`word  meaning`
+- 制表符（Tab）：`word	meaning   这个词的意思`
+- 空格：`word  meaning   这个词的意思`
 - 分号：`word;meaning`
 - 竖线：`word|meaning`
 
@@ -72,7 +70,7 @@ strategy	n. 策略，战略
 
 如需自己打包成exe：
 
-```bash   ”“bash
+```bash   ”“bash   ”“bash”“bash
 # 安装 PyInstaller
 pip install pyinstaller
 
@@ -115,6 +113,7 @@ This project is licensed under the MIT License - see the [LICENSE   许可证](L
 ---
 
 **Enjoy Learning! 📚✨   享受学习!📚✨**
+
 
 
 
