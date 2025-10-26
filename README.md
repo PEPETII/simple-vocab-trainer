@@ -1,9 +1,6 @@
-<img width   宽度="482" height="464" alt="image" src="https://github.com/user-attachments/assets/179d7b06-0750-4ff4-8b22-4695f811de31" /><img width="474" height   高度="414" alt="image" src="https://github.com/user-attachments/assets/f9b5cf59-4b52-4a03-ac40-73182585b458" /># 极简英语单词学习器 / Simple Vocabulary Trainer
+ 极简英语单词学习器 / Simple Vocabulary Trainer
 
-
-<img width="552" height="463" alt="image" src="https://github.com/user-attachments/assets/d3d36a70-7f60-4687-a653-217a2428b1fa" />
-
-
+<img width   宽度="552" height="463" alt="image" src="https://github.com/user-attachments/assets/d3d36a70-7f60-4687-a653-217a2428b1fa" />
 
 
 一个简洁、易用的桌面英语单词学习应用程序。
@@ -11,7 +8,7 @@
 A minimalist and user-friendly desktop application for learning English vocabulary.一个极简和用户友好的桌面应用程序，用于学习英语词汇。
 
 ![License   许可证](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.6+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.6+-blue.svg)Python (https://img.shields.io/badge/python 3.6 -blue.svg) !
 
 ## ✨ 特性 / Features
 
@@ -31,9 +28,9 @@ A minimalist and user-friendly desktop application for learning English vocabula
 
 ### 方式二：从源码运行
 
-```bash
+```bash   ”“bash
 # 克隆仓库
-git clone https://github.com/yourusername/simple-vocab-trainer.git
+git clone https://github.com/yourusername/simple-vocab-trainer.gitGit克隆https://github.com/yourusername/simple-vocab-trainer.git
 cd simple-vocab-trainer
 
 # 运行程序
@@ -69,7 +66,7 @@ strategy	n. 策略，战略
 
 ## 🛠️ 技术栈 / Tech Stack
 
-- **Python 3.6+   Python 3.6**
+- **Python 3.6+   Python 3.6**- **Python 3.6 Python 3.6**
 - **Tkinter** - GUI界面
 - **PyInstaller** - 打包成exe
 
@@ -120,5 +117,6 @@ This project is licensed under the MIT License - see the [LICENSE   许可证](L
 ---
 
 **Enjoy Learning! 📚✨   享受学习!📚✨**
+
 
 
